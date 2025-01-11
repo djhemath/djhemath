@@ -25,4 +25,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=djhemath&show_icons=true&count_private=true" alt="djhemath" />
-[![HitCount](https://hits.dwyl.com/djhemath/djhemath.svg?style=flat-square)](http://hits.dwyl.com/djhemath/djhemath)
+<p><a href="https://hits.dwyl.com/djhemath/djhemath.svg?style=flat-square"><img src="https://hits.dwyl.com/djhemath/djhemath.svg?style=flat-square&show=unique" alt="HitCount"></a></p>
