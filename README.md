@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://hemath.dev">Hemath</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Comcast</a></strong> based in Chennai, India.
-<p><a href="https://hemath.dev"><img src="https://img.shields.io/badge/-hemath.dev-FFDD6E?style=flat&logo=Firefox&logoColor=8D1E99&labelColor=FFDD6E&link=https%3A%2F%2Fhemath.dev" alt="Website Badge"></a><a href="https://www.linkedin.com/in/djhemath/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/djhemath/" alt="LinkedIn Badge"></a></p>
+<p><a href="https://hemath.dev"><img src="https://img.shields.io/badge/-hemath.dev-FFDD6E?style=flat&logo=Firefox&logoColor=8D1E99&labelColor=FFDD6E&link=https%3A%2F%2Fhemath.dev" alt="Website Badge"></a><a href="https://www.linkedin.com/in/djhemath/"><img src="https://img.shields.io/badge/-@djhemath?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/djhemath/" alt="LinkedIn Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
